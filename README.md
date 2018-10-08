@@ -2,7 +2,7 @@
 <html>
 
 
-<h1><font color="red">this project is not completed !</font></h1>
+<h1>this project is not completed !</h1>
 
 
 </body>
